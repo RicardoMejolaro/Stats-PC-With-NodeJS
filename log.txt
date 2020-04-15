@@ -1,0 +1,19 @@
+[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object]{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3308 MB","Percentual":"40%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3308 MB","Percentual":"40%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3308 MB","Percentual":"40%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3317 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3318 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3324 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3325 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3325 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3324 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3322 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3322 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3320 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3317 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3318 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3330 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3336 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3338 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3328 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3324 MB","Percentual":"41%"}
