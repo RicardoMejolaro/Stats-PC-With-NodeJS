@@ -17,3 +17,15 @@
 {"TotalDeMemoria":"8072 MB","MemoriaLivre":"3338 MB","Percentual":"41%"}
 {"TotalDeMemoria":"8072 MB","MemoriaLivre":"3328 MB","Percentual":"41%"}
 {"TotalDeMemoria":"8072 MB","MemoriaLivre":"3324 MB","Percentual":"41%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3959 MB","Percentual":"49%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3958 MB","Percentual":"49%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3958 MB","Percentual":"49%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3957 MB","Percentual":"49%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3956 MB","Percentual":"49%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3956 MB","Percentual":"49%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3956 MB","Percentual":"49%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3071 MB","Percentual":"38%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3040 MB","Percentual":"37%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3036 MB","Percentual":"37%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3027 MB","Percentual":"37%"}
+{"TotalDeMemoria":"8072 MB","MemoriaLivre":"3033 MB","Percentual":"37%"}
